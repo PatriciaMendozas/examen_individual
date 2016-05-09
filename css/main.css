@@ -1,0 +1,110 @@
+.row{
+	background: #9CA3E0;
+}
+img{
+	max-width: 100%;
+}
+.plomo{
+	background: #222329;
+	
+}
+.menu{
+	text-align: right;
+	padding: 0;
+	margin: 4% 0%;
+	font-family: OpenSans;
+}
+
+.menu li{
+	list-style:none;
+    display: inline-block;
+    margin-right: 3%;
+    
+}
+#h1{
+	font-family: Dosis;
+	margin: 4% 0%;
+	color: #fff;
+}
+.submenu{
+	display: block;
+	color:#fff;
+	
+}
+.submenu:hover{
+	color: #BF3535;
+	text-decoration: none;
+}
+.marg{
+	margin: 2% 0%;
+}
+.marg5{
+	margin: 5% 0%;
+	font-size: 13px;
+}
+.mg7{
+	margin: 7% 0%;
+	font-size: 16px;}
+button{
+	color: #fff;
+	border-radius: 16%;
+	background: #6B6868;
+}
+.rosa{
+	background: #BF3535;
+	color: #fff;
+	
+	margin: 0%;
+	padding:0%;
+}
+.center{
+	text-align: center;
+}
+
+.blanco{
+	color: #fff;
+	text-align: center;
+
+}
+#rosa{
+	color: #BF3535;
+	text-decoration: none;
+	text-align: none;
+
+}
+.cont_icono h3, span{
+	display: inline;
+
+}
+span{
+	float: right;
+}
+.fond_blanco{
+	background: #fff;
+	display: inline-block;
+}
+.mg0{
+	padding: 0%;
+	margin:0%;
+}
+#mg3{
+	margin: 28% 0%;
+}
+.let_plomo{
+	color:#8689A2;
+	text-align: center;
+}
+.size15{
+	font-size: 15px;
+	font-family:cursive;
+}
+.left{
+	text-align: left;
+}
+.b_plomo{
+	background: #25252C;
+	color: #fff;}
+.font9p{
+	margin: 3%;
+	font-size: 9px;
+}
